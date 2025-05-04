@@ -9,8 +9,8 @@ Projects, labs and documentation
 
 |Sn.| Project | Repo | Type |
 |-----------------|-----------------|-----------------|-----------------|
-|1.| Introdution to Python control strucutre    | [click](https://github.com/JagdishMane/python-control-structure.git) | Examples |
-|2.| Module 1   | Module 1 desc  | Book |
+|1.| Introdution to Python control strucutre    | [click](https://github.com/JagdishMane/python-control-structure.git) | code sample |
+|2.| Python for Data analytics  | [click](https://github.com/JagdishMane/python-foundation-for-statistices-data-analytics.git) | code sample |
 |3.| Module 2   | Module 1 desc     | project |
 
 ## Installation
