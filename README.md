@@ -1,4 +1,4 @@
-# MS - applications-of-artificial-intelligence
+# MS - Applications Of Artificial Intelligence
 
 
 ## Description
