@@ -1,9 +1,9 @@
-# MS - Applications Of Artificial Intelligence
+# Artificial Intelligence
 
 
 ## Description
 
-Projects, labs and documentation
+Projects, Videos, labs and documentation
 
 ## Table
 
@@ -11,12 +11,7 @@ Projects, labs and documentation
 |-----------------|-----------------|-----------------|-----------------|
 |1.| Introdution to Python control strucutre    | [click](https://github.com/JagdishMane/python-control-structure.git) | code sample |
 |2.| Python for Data analytics  | [click](https://github.com/JagdishMane/python-foundation-for-statistices-data-analytics.git) | code sample |
-|3.| Module 2   | Module 1 desc     | project |
+|3.| Module 1 - Statistices for AI  |   [click](https://github.com/JagdishMane/python-foundation-for-statistices-data-analytics.git)   | task |
+|4.| Machine Intelligence - Lectures - Universit of Waterloo | [blog](https://tizhoosh.com/lectures/) | Videos |
+|5.| Machine Intelligence - Lectures - Universit of Waterloo Youtube | [Youtube](https://www.youtube.com/@KimiaLabMayo/videos) | Videos |
 
-## Installation
-
-Instructions for installing the project.
-
-## Usage
-
-Instructions for using the project.
