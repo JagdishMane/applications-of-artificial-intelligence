@@ -16,4 +16,5 @@ Projects, Videos, labs and documentation
 |4.| Machine Intelligence - Lectures - Universit of Waterloo | [blog](https://tizhoosh.com/lectures/) | Videos |
 |5.| Machine Intelligence - Lectures - Universit of Waterloo Youtube | [Youtube](https://www.youtube.com/@KimiaLabMayo/videos) | Videos |
 |6.| Machine Intelligence - sklearn SVM and Decision Tree classifier | [notebook](./aai501-m4-sklearn-svc-and-decision-tree/) | notebook |
+|7.| NLP Example - Essay Scoring | [notebook](./AAI-501-M5-Neural-Network/) ||
 
