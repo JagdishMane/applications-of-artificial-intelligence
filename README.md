@@ -8,7 +8,7 @@ Projects, Videos, labs and documentation
 
 ## Table
 
-|Sn.| Project | Repo | Type |
+|Sn.| Project | Repo |
 |-----------------|-----------------|-----------------|
 |1.| Introdution to Python control strucutre    | [click](https://github.com/JagdishMane/python-control-structure.git) | 
 |2.| Python for Data analytics  | [click](https://github.com/JagdishMane/python-foundation-for-statistices-data-analytics.git) | 
